@@ -1,0 +1,24 @@
+html{
+    margin: 0px;
+    background: #000;
+}
+body{
+    width: 400px;
+    height: 300px;
+    background:#62306D;
+    margin: 0 auto;
+  }
+  .right{
+    border-radius: 100px 0px 50px 0px;
+    margin: 0px 0px 0px 120px;
+    width: 80px;
+    height: 160px;
+    background: #F7EC7D;
+  }
+  .left{
+    border-radius: 0px 100px 0px 50px;
+    margin: -160px 0px 0px 200px;
+    width: 80px;
+    height: 160px;
+    background: #F7EC7D;
+  }
